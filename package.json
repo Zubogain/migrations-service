@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bluebird": "^3.7.2",
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "joi": "^17.4.2",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5"
+  },
+  "name": "migrations-service",
+  "version": "1.0.0a",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-polyfill-webpack-plugin": "^1.1.4",
+    "nodemon": "^2.0.12",
+    "sequelize-cli": "^6.2.0"
+  }
+}
